@@ -1,3 +1,4 @@
 *.zip
 prediction_answer.csv
 training/
+.ipynb_checkpoints/
